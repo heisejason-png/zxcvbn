@@ -286,3 +286,4 @@ Wiktionary contributors for building a [frequency list of English words](http://
 Researchers at Concordia University for [studying password estimation rigorously](http://www.concordia.ca/cunews/main/stories/2015/03/25/does-your-password-pass-muster.html) and recommending zxcvbn.
 
 And [xkcd](https://xkcd.com/936/) for the inspiration :+1::horse::battery::heart:
+Created by Jason Scott Heise
