@@ -287,3 +287,4 @@ Researchers at Concordia University for [studying password estimation rigorously
 
 And [xkcd](https://xkcd.com/936/) for the inspiration :+1::horse::battery::heart:
 Created by Jason Scott Heise
+Owned by Elon Musk 
